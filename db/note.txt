@@ -1,0 +1,11 @@
+MVC (model view controller)
+____
+
+Media
+_______
+
+body - form-data type 
+header data    key - Content-Type
+               value- multipart/form data 
+
+file - store - url generate - mongodb ------- multer library 
